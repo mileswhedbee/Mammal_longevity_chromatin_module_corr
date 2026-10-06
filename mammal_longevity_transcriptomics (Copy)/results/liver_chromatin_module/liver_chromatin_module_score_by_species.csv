@@ -1,0 +1,25 @@
+species,n_module_genes,chromatin_module_score
+Blarina brevicauda,14,0.6148561041608717
+Cuniculus paca,15,0.5738810068571992
+Castor canadensis,16,0.4829555584530097
+Rattus rattus,16,0.41943280200151617
+Cavia porcellus,16,0.4064318737416188
+Mus musculus,16,0.32615965200206726
+Tamias striatus,16,0.3009192378140227
+Bramus lutescens,15,0.28185897826014883
+Mesocricetus auratus,16,0.2583022652493588
+Peromyscus maniculatus,16,0.25471630933128797
+Heterocephalus glaber,15,0.16115286390306632
+Acomys russatus,16,0.12122229157949684
+Scalopus aquaticus,15,0.11946648281625857
+Myocastor coypus,14,0.11375221447525123
+Chinchilla lanigera,16,0.0703403647957292
+Hydrochoerus hydrochaeris,15,0.03399821234904203
+Ondatra zibethicus,16,-0.034631534323970876
+Cricetulus barabensis,16,-0.07615946215504603
+Marmota monax,15,-0.07679165451946311
+Condylura cristata,15,-0.14548673974844584
+Octodon degus,16,-0.1552206857994218
+Neotoma cinerea,15,-0.21124529901522335
+Tamiasciurus hudsonicus,16,-0.9554624005838753
+Sciurus carolinensis,16,-2.7473202861335717

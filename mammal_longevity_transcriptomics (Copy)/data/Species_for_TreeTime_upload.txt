@@ -1,0 +1,20 @@
+Heterocephalus glaber
+Castor canadensis
+Cavia porcellus
+Hydrochoerus hydrochaeris
+Chinchilla lanigera
+Mesocricetus auratus
+Peromyscus maniculatus
+Cuniculus paca
+Mus musculus
+Rattus rattus
+Myocastor coypus
+Octodon degus
+Marmota monax
+Sciurus carolinensis
+Tamias striatus
+Tamiasciurus hudsonicus
+Blarina	brevicauda
+Condylura cristata
+Scalopus aquaticus
+
